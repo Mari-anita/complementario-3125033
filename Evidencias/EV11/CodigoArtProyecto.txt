@@ -1,0 +1,52 @@
+\documentclass{IEEEoj-data}
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+\usepackage{graphicx,color}
+\usepackage{textcomp}
+\usepackage{hyperref}
+\usepackage{balance}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+\AtBeginDocument{\definecolor{ojcolor}{cmyk}{0.93,0.59,0.15,0.02}}
+
+\begin{document}
+%
+\title{\textcolor{black}{TuTurismo Neiva: Fomentando la Cultura y el Turismo a Trav\'es de la Innovaci\'on Tecnol\'ogica}}
+
+\author{Valentina Silva Garrido, Mariana Gonz\'alez Calder\'on, Maydy Viviana Conde Ladino, Dylan Santiago Narv\'aez Pinto, Isabela Guti\'errez C\'ordoba, Ivan Andr\'es Murcia Epia}
+\affil{Servicio Nacional de Aprendizaje, Neiva-Huila, Colombia}
+\begin{abstract}
+This article aims to present the TuTurismo Neiva application, designed to promote tourism in the city of Neiva through an interactive digital platform. The app allows users to explore, discover and value the tourist sites and monuments of the city, facilitating the integration of local history with modern evaluation and recommendation tools. The methodology used in the development of the app includes agile approaches such as Scrum and XP, as well as graphic tools such as Canva for the creation of the interface. The results obtained show that the app has improved the visibility of lesser-known sites and has favored user interaction with Neiva's cultural heritage. In addition, the platform includes a PQRSFD system, which allows users to express opinions and suggestions, contributing to a process of continuous improvement. In conclusion, TuTurismo Neiva not only fosters cultural knowledge, but also promotes the economic and social development of the city, providing an interactive experience for tourists.\newline
+\newline
+
+\end{abstract}
+
+\begin{IEEEkeywords}
+Aplicaci\'on m\'ovil, Turismo, Cultura, Neiva, Innovaci\'on, Historia, PQRSFD
+\end{IEEEkeywords}
+
+\maketitle
+
+\section*{BACKGROUND} 
+TuTurismo Neiva se desarroll\'o para atender la necesidad de promover sitios tur\'isticos y culturales menos conocidos en Neiva. El turismo digital ha ganado relevancia con la tecnolog\'ia m\'ovil, proporcionando acceso en tiempo real a informaci\'on sobre destinos. Plataformas como esta fomentan interacciones entre turistas y locales, enriqueciendo experiencias culturales y promoviendo sostenibilidad.
+
+\section*{COLLECTION METHODS AND DESIGN} 
+Se utiliz\'o Scrum para dividir el proyecto en sprints, cada uno enfocado en funcionalidades clave como geolocalizaci\'on de sitios tur\'isticos y un sistema de retroalimentaci\'on. Canva facilit\'o la creaci\'on de una interfaz intuitiva, mientras que pruebas con usuarios locales ajustaron la experiencia de la app.
+
+\section*{VALIDATION AND QUALITY} 
+La validaci\'on incluy\'o pruebas de usabilidad con turistas y residentes, recolectando retroalimentaci\'on valiosa mediante el sistema PQRSFD. Las calificaciones y comentarios de los usuarios destacaron sitios menos conocidos, mejorando su visibilidad.
+
+\section*{DATASET} 
+El sistema cuenta con una base de datos de m\'as de 50 sitios tur\'isticos, cada uno evaluado por usuarios. Gr\'aficos adjuntos ilustran el crecimiento de usuarios activos y la distribuci\'on geogr\'afica de los sitios m\'as visitados.
+
+\section*{LIMITATIONS} 
+Aunque la aplicaci\'on ha demostrado su efectividad, a\'un se observan preferencias por sitios reconocidos. Se requiere una campa\~na de marketing m\'as agresiva para aumentar el n\'umero de usuarios y la visibilidad de lugares menos visitados. Adem\'as, las pruebas a gran escala son limitadas por recursos.
+
+\section*{CONCLUSION} 
+TuTurismo Neiva ha logrado crear una plataforma funcional para fomentar el turismo en Neiva. Se recomienda expandir la aplicaci\'on a otras ciudades y agregar nuevas funcionalidades como itinerarios personalizados y la creaci\'on de recorridos propios por parte de los usuarios.
+
+\balance
+\end{document}
+
+}

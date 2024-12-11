@@ -1,0 +1,22 @@
+Ranking,Librería,Porcentaje de Uso,Respuestas
+1,Lodash,50%,9,076
+2,date-fns,36%,6,642
+3,Zod,34%,6,167
+4,Moment,33%,5,952
+5,Day.js,26%,4,833
+6,RxJS,24%,4,313
+7,jQuery,22%,4,020
+8,Yup,16%,2,974
+9,core-js,14%,2,613
+10,Immer,12%,2,278
+11,Luxon,11%,2,016
+12,Underscore.js,11%,1,964
+13,Ramda,6%,1,113
+14,Partytown,5%,887
+15,stdlib,2%,444
+16,Mitosis,0%,112
+17,Axios,0%,80
+18,Valibot,0%,54
+19,React Query,0%,37
+20,Zustand,0%,37
+21,Other Answers +3,18%,3,241

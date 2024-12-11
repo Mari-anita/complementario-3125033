@@ -1,0 +1,11 @@
+Sistema Operativo,Uso,Porcentaje
+Windows,Personal,62.33%
+Windows,Profesional,48.82%
+Linux-based,Personal,40.23%
+Linux-based,Profesional,39.89%
+macOS,Personal,31.07%
+macOS,Profesional,32.97%
+Windows Subsystem for Linux (WSL),Personal,15%
+Windows Subsystem for Linux (WSL),Profesional,14.34%
+BSD,Personal,1.47%
+BSD,Profesional,1.03%

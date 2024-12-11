@@ -1,0 +1,66 @@
+\documentclass{IEEEoj-data}
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+\usepackage{graphicx,color}
+\usepackage{textcomp}
+\usepackage{hyperref}
+\usepackage{balance}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+\AtBeginDocument{\definecolor{ojcolor}{cmyk}{0.93,0.59,0.15,0.02}}
+
+\begin{document}
+%\receiveddate{00 April, 2024}
+%\reviseddate{11 April, 2024}
+%\accepteddate{00 April, 2024}
+%\publisheddate{00 May, 2024}
+%\currentdate{24 June, 2024}
+%\doiinfo{DD.2024.0910000}
+
+\title{\textcolor{black}{Optimización de la Arquitectura de Software en Entornos Ágiles y la Nube:} \textcolor{ieeedata}{Un Enfoque Integral para el Diseño y Selección de Patrones Arquitectónicos}}
+
+\author{Mariana González Calderón}
+\affil{Servicio Nacional de Aprendizaje (SENA), Neiva-Huila, Colombia}
+\corresp{CORRESPONDING AUTHOR: Mariana González Calderón (e-mail: mariana.gonzalez7@soy.sena.edu.co).}
+
+\markboth{IEEE-DATA Descriptor Article}{González Calderón \textit{et al.}}
+
+\begin{abstract}
+This paper presents a detailed analysis of a comprehensive environment for the design and selection of software architectures oriented to web applications, with a special focus on cloud computing contexts and agile methodologies. The main objective is to provide a framework for architects and developers that facilitates the creation and verification of architectural design patterns, guaranteeing correct implementation and ensuring software quality. The article also addresses the importance of integrating patterns such as MVC, MVP, Microservices and Cloud Architecture, and how these can be selected according to the specific characteristics and requirements of the project. Through an agile methodology and a practical approach, graphical tools for the creation of flexible and adaptable architectures are explored. The results highlight how previous architectural decisions can guide the creation of more efficient and maintainable solutions, promoting productivity and ensuring software quality in dynamic environments. It is concluded that the combination of agile methodologies with well-defined design patterns is key to successful software development in technologically demanding environments.
+\end{abstract}
+
+\begin{IEEEkeywords}
+Arquitectura de Software, Patrones de Diseño, Computación en la Nube, Metodologías Ágiles, Microservicios, MVC, Mantenimiento de Software
+\end{IEEEkeywords}
+
+\maketitle
+
+\section*{BACKGROUND}
+La arquitectura de software es crucial en el desarrollo de aplicaciones, especialmente en entornos dinámicos como la computación en la nube y las metodologías ágiles. Un enfoque adecuado en la selección y el diseño de arquitecturas afecta directamente la calidad, el rendimiento y la mantenibilidad del software. Este artículo busca explorar cómo un metamodelo de componentes arquitectónicos puede ayudar a los arquitectos a enfrentar los desafíos del diseño y verificación de arquitecturas, especialmente en la nube, mediante el uso de patrones de diseño como MVC, MVP y Microservicios.
+
+\section*{COLLECTION METHODS AND DESIGN}
+La investigación se centró en la integración de patrones de diseño en la arquitectura de software utilizando metodologías ágiles. Se utilizó un metamodelo de componentes arquitectónicos que permite un enfoque flexible y adaptable. A través de la metodología ágil, las decisiones arquitectónicas fueron sometidas a validaciones periódicas con herramientas gráficas como Canva, lo que facilitó la colaboración entre arquitectos y desarrolladores en el diseño de arquitecturas.
+
+\section*{VALIDATION AND QUALITY}
+Se validaron las arquitecturas propuestas mediante un caso práctico de diseño de software en la nube. Los patrones seleccionados (MVC, Microservicios, etc.) fueron evaluados según su capacidad para generar soluciones escalables y mantenibles. Los equipos de desarrollo utilizaron herramientas gráficas para asegurar que las decisiones arquitectónicas cumplían con los requisitos de calidad, como el rendimiento y la seguridad.
+
+\section*{RECORDS AND STORAGE}
+Los datos relacionados con los patrones de diseño arquitectónico, las herramientas utilizadas, y las arquitecturas implementadas se organizaron en archivos digitales. Estos archivos contienen detalles sobre las decisiones arquitectónicas, la selección de patrones y las configuraciones de las herramientas gráficas empleadas. Los archivos están almacenados en un repositorio accesible para los equipos de desarrollo.
+
+\section*{INSIGHTS AND NOTES}
+El uso de metodologías ágiles junto con patrones de diseño arquitectónicos ha demostrado ser efectivo para la adaptación rápida a cambios durante el ciclo de vida del proyecto. Las herramientas gráficas contribuyeron significativamente a la validación y verificación de las decisiones arquitectónicas. Sin embargo, el estudio debe expandirse para pruebas a gran escala en entornos reales, lo cual es una limitación en cuanto a la generalización de los resultados.
+
+\section*{SOURCE CODE AND SCRIPTS}
+El código fuente utilizado para simular escenarios de diseño de software está disponible en el repositorio GitHub: \url{https://github.com/Mari-anita/complementario-3125033}. También se utilizaron plataformas como Canva para la creación de diagramas, y su versión actual fue incorporada en el proceso de diseño.
+
+\balance
+\section*{REFERENCES}
+\begin{enumerate}
+\item Blas, M., et al. (2019). "Modelado y Verificación de Patrones de Diseño de Arquitectura de Software para Entornos de Computación en la Nube."
+\item ProQuest. (s. f.). "Marco de Trabajo para Seleccionar un Patrón Arquitectónico en el Desarrollo de Software."
+\item Redalyc. (2008). "Lenguajes de Patrones de Arquitectura de Software: Una Aproximación al Estado del Arte."
+\item Revista de Tecnología y Software. (2020). "Integración de arquitectura de software en el ciclo de vida de las metodologías ágiles." 15(3), 45-60.
+\end{enumerate}
+
+\end{document}
